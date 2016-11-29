@@ -2,7 +2,7 @@
 #
 #
 #
-# This script will help you to do an hot extend ext4 FS in an LV (LVM) :
+# This script will help you to do an hot extend ext4 FS in an LV (LVM) / tested under RHEL/CentOS 6.2, 6.4 and 6.6 :
 #
 # It analyze journal and other options to know if or if not possible to do it !
 # 
